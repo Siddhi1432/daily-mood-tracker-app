@@ -24,5 +24,11 @@ Coming soon:
 - Basic mobile app implementation
 
 # File Structure
+📁 daily-mood-tracker-app
+├── README.md
+├── assets/
+│ └── mood_tracker_wireframe.png
+├── docs/
+│ └── feature_plan.md
 
-
+Stay tuned for more updates!
